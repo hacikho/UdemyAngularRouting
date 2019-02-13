@@ -1,2 +1,0 @@
-# UdemyAngularRouting
-Created with CodeSandbox
